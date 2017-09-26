@@ -5,4 +5,4 @@ title: "β-lactone tool"
 Phylogeny
 
 
-![optional caption text](figs/OleC_HMM.jpg)
+

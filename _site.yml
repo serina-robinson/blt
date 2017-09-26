@@ -8,3 +8,5 @@ navbar:
       href: index.html
     - text: "Phylogeny"
       href: phylogeny.html
+    - text: "Database"
+      href: database.html
