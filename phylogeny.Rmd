@@ -3,3 +3,6 @@ title: "Beta-lactone tool"
 ---
 
 Phylogeny
+
+
+![optional caption text](figs/phylogeny.jpg)
