@@ -1,5 +1,6 @@
 name: "blt"
 output_dir: "."
+type: inverse
 navbar:
   title: "Beta-lactone tool"
   left:
