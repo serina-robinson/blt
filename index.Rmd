@@ -1,5 +1,9 @@
 ---
-title: "Beta-lactone tool"
+title: "β-Lactone Tool (βLT)"
 ---
 
-Hello, World!
+
+
+Welcome to the βLT (β-Lactone-Tool) a consolidated resource for predicting and using biosynthetic gene clusters of β-lactone natural products
+
+![optional caption text](figs/BLT_logo.jpg)
