@@ -1,0 +1,9 @@
+name: "blt"
+output_dir: "."
+navbar:
+  title: "Beta-lactone tool"
+  left:
+    - text: "Home"
+      href: index.html
+    - text: "Phylogeny"
+      href: phylogeny.html
