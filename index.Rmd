@@ -23,7 +23,6 @@ Column {data-width=650}
 
 knitr::include_graphics("figs/Lactone_Structures.jpg")
 ```
-```
 
 Column {data-width=350}
 -----------------------------------------------------------------------
