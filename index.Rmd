@@ -1,9 +1,40 @@
 ---
 title: "β-Lactone Tool (βLT)"
+output:
+  flexdashboard::flex_dashboard:
+    logo: figs/BLT_logo.jpg
+    favicon: figs/BLT_logo.jpg
+    theme: cosmo
+    orientation: columns
+    vertical_layout: fill
+runtime: shiny
 ---
 
+```{r setup, include=FALSE}
+library(flexdashboard)
+```
+
+Column {data-width=650}
+-----------------------------------------------------------------------
+#Welcome to the β-Lactone-Tool (βLT) - a consolidated resource for β-lactone natural products and their biosynthetic gene clusters.
+
+```{r}
 
 
-Welcome to the βLT (β-Lactone-Tool) a consolidated resource for predicting and using biosynthetic gene clusters of β-lactone natural products
+knitr::include_graphics("figs/Lactone_Structures.jpg")
+```
+```
 
-![](figs/BLT_logo.jpg)
+Column {data-width=350}
+-----------------------------------------------------------------------
+
+
+```{r}
+
+```
+
+
+```{r}
+
+```
+
