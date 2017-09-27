@@ -4,7 +4,7 @@ output:
   flexdashboard::flex_dashboard:
     logo: figs/BLT_logo.jpg
     favicon: figs/BLT_logo.jpg
-    theme: cosmo
+    theme: lumen
     orientation: columns
     vertical_layout: fill
 runtime: shiny
