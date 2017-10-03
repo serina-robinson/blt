@@ -26,7 +26,7 @@ tab<-read.csv("tables/beta_lactone_table.csv",header=T,stringsAsFactors=F)
 ```
 
 
-#About {.sidebar}
+#About {.sidebar data-width=500}
 ***
 ***
 **Welcome to the β-Lactone-Tool (βLT)**
@@ -35,11 +35,11 @@ The βLT is a consolidated resource for β-lactone natural products and their bi
 <br>
 This site is curated and maintained by [Dr. Larry Wackett's lab](https://cbs.umn.edu/wackett-lab/home) at the University of Minnesota.  
 <br>
-The [Wackett](https://cbs.umn.edu/wackett-lab/home) and [Wilmot](https://cbs.umn.edu/contacts/carrie-m-wilmot) labs discovered and characterized the first β-lactone synthetase enzyme ([Christenson *et al.* 2017](http://pubs.acs.org/doi/abs/10.1021/acs.biochem.6b01199)). A major focus in the lab is β-lactone natural product discovery and sharing these findings with the scientific community via the βLT. For more information, see our publications:
-
-*Christenson JK, Richman JE, Jensen MR, Neufeld JY, Wilmot CM, Wackett LP. [**β-Lactone Synthetase Found in the Olefin Biosynthesis Pathway.**](http://pubs.acs.org/doi/abs/10.1021/acs.biochem.6b01199) *Biochemistry.* 2017;56(2):348-51.  [doi:10.1021/acs.biochem.6b01199.](http://pubs.acs.org/doi/abs/10.1021/acs.biochem.6b01199)
-
-*Christenson, JK, Robinson, SL, Engel, TA, Richman, JE, Kim, AN, Wackett, LP. [**β-Lactone decarboxylase: Function, mechanism, and linkage to class III haloalkane dehalogenases.**]  *Biochemistry.* 2017; doi: 10.1021/acs.biochem.7b00667. 
+The [Wackett](https://cbs.umn.edu/wackett-lab/home) and [Wilmot](https://cbs.umn.edu/contacts/carrie-m-wilmot) labs discovered and characterized the first β-lactone synthetase enzyme ([Christenson *et al.* 2017](http://pubs.acs.org/doi/abs/10.1021/acs.biochem.6b01199)). A major focus in the lab is β-lactone natural product discovery and sharing these findings with the scientific community via the βLT. For more information, see our publications:    
+<br>
+1. Christenson JK, Richman JE, Jensen MR, Neufeld JY, Wilmot CM, Wackett LP. [**β-Lactone Synthetase Found in the Olefin Biosynthesis Pathway.**](http://pubs.acs.org/doi/abs/10.1021/acs.biochem.6b01199) *Biochemistry.* 2017;56(2):348-51.  [doi:10.1021/acs.biochem.6b01199.](http://pubs.acs.org/doi/abs/10.1021/acs.biochem.6b01199)   
+<br>
+2. Christenson, JK, Robinson, SL, Engel, TA, Richman, JE, Kim, AN, Wackett, LP. [**β-Lactone decarboxylase: Function, mechanism, and linkage to class III haloalkane dehalogenases.**](http://pubs.acs.org/doi/abs/10.1021/acs.biochem.7b00667?src=recsys)  *Biochemistry.* 2017; Epub ahead of print. [doi: 10.1021/acs.biochem.7b00667.](http://pubs.acs.org/doi/abs/10.1021/acs.biochem.7b00667?src=recsys)    
 
 
 Browse
