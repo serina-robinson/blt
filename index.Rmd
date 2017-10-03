@@ -12,7 +12,7 @@ runtime: shiny
 
 ```{r setup, include=FALSE}
 
-packs<-c("flexdashboard","tidyr","kableExtra","genoPlotR")
+packs<-c("flexdashboard","tidyr","kableExtra","genoPlotR","shiny","Biostrings")
 lapply(packs,require,character.only=T)
 
 ```
@@ -47,7 +47,7 @@ Browse
 ***
 ***
 ```{r}
-selectInput('compound', 'Compounds',unique(tab$Natural_product))
+#selectInput('compound', 'Compounds',unique(tab$Natural_product))
 #selectInput('taxonomy', 'Taxonomy',unique(tab$Organism))
 ```
 

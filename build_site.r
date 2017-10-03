@@ -3,8 +3,8 @@
 #not our site because of other projects we were 
 #working on at the time. 
 #Install packages
-packs<-c("dplyr","tidyr")
-lapply(packs, require, character.only=T)
+packs<-c("flexdashboard","tidyr","kableExtra","genoPlotR")
+lapply(packs,require,character.only=T)
 
 setwd("~/Documents/University_of_Minnesota/Wackett_Lab/github/blt/")
 
