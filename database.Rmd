@@ -1,0 +1,32 @@
+---
+title: "β-Lactone Tool (βLT)"
+output:
+  flexdashboard::flex_dashboard:
+    logo: figs/BLT_logo.jpg
+    favicon: figs/BLT_logo.jpg
+    theme: lumen
+    orientation: columns
+    vertical_layout: fill
+runtime: shiny
+---
+```{r results='asis', echo=FALSE, include=FALSE}
+packs<-c("tidyr","kableExtra")
+lapply(packs,require,character.only=T)
+
+```
+
+```{r}
+tab<-read.csv("tables/beta_lactone_table.csv",header=T)
+pl<-tab %>% knitr::kable("html",table.attr='class="myTable"') %>%
+  column_spec(1, bold = T, border_right = T) %>%
+ kable_styling(bootstrap_options = c("striped", "hover","condensed","responsive"),full_width = F,position="left",font_size=10) %>%
+  scroll_box(width = "2000px", height = "2000px")
+pl
+#add_header_above(pl,c("β-Lactone Natural Products"))
+ 
+```
+<style>
+  .myTable td {
+    padding: 100px;
+  }
+</style>
