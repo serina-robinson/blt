@@ -21,12 +21,12 @@ Home
 =====================================
 
 ```{r}
-knitr::include_graphics("figs/Lactone_Structures.jpg")
+knitr::include_graphics("figs/Lactone_Structures.jp2")
 tab<-read.csv("tables/beta_lactone_table.csv",header=T,stringsAsFactors=F)
 ```
 
 
-#About {.sidebar data-width=500}
+#About {.sidebar data-width=300}
 ***
 ***
 **Welcome to the β-Lactone-Tool (βLT)**
