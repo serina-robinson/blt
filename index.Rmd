@@ -21,7 +21,7 @@ Home
 =====================================
 
 ```{r}
-knitr::include_graphics("figs/Lactone_Structures.jp2")
+knitr::include_graphics("figs/Lactone_Structures2.jpg")
 tab<-read.csv("tables/beta_lactone_table.csv",header=T,stringsAsFactors=F)
 ```
 
